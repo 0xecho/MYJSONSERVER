@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "date_of_birth": 12/24/1990,
+      "gender": "M",
+      "salary": 7000,
+      "name": "Elias Amha"
+    },
+    {
+      "id": 2,
+      "date_of_birth": 12/25/1990,
+      "gender": "M",
+      "salary": 7001,
+      "name": "Flias Bmha"
+    }
+  ]
+}
